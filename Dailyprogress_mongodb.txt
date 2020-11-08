@@ -1,0 +1,17 @@
+MongoDB
+
+Day 1 [8-11-2020]:
+	 
+              1)Learned about what is mongo db and the need of mocha in mongodb.
+
+		https://www.youtube.com/watch?v=9JSG7Na2S4M&list=PLRAV69dS1uWTaoxyeBbKpAEF90i4ijUQZ&index=1&ab_channel=HiteshChoudhary
+		
+		https://www.youtube.com/watch?v=aHayBvJc5ek&list=PLRAV69dS1uWTaoxyeBbKpAEF90i4ijUQZ&index=3&ab_channel=HiteshChoudhary
+	
+    	      2)Installed mongodb and learnt about how create and read operations are done in mongodb.
+		 
+		https://www.youtube.com/watch?v=MXIpMcMGRds&list=PLRAV69dS1uWTaoxyeBbKpAEF90i4ijUQZ&index=7&ab_channel=HiteshChoudhary
+		
+	      3) Learnt about object id and BSON 
+			
+		https://www.youtube.com/watch?v=TQ4KFPzb6vI&list=PLRAV69dS1uWTaoxyeBbKpAEF90i4ijUQZ&index=8&ab_channel=HiteshChoudhary
