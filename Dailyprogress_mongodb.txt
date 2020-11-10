@@ -12,6 +12,26 @@ Day 1 [8-11-2020]:
 		 
 		https://www.youtube.com/watch?v=MXIpMcMGRds&list=PLRAV69dS1uWTaoxyeBbKpAEF90i4ijUQZ&index=7&ab_channel=HiteshChoudhary
 		
+		show dbs= shows all the databases in the system
+		use database_name= to select our database
+		db.collection_name.insertOne()= For inserting data into the database through collections.
+				  .insertMany(data,options)
+		db.collection_name.find().pretty()=displays the data in the database
+		
 	      3) Learnt about object id and BSON 
 			
 		https://www.youtube.com/watch?v=TQ4KFPzb6vI&list=PLRAV69dS1uWTaoxyeBbKpAEF90i4ijUQZ&index=8&ab_channel=HiteshChoudhary
+
+Day 2 [10-11-2020]
+		
+	       1)Learned CRUD operations in mongodb.
+			
+		https://www.youtube.com/watch?v=MWBQwWXu4jE&list=PLRAV69dS1uWTaoxyeBbKpAEF90i4ijUQZ&index=9&ab_channel=HiteshChoudhary
+		
+		2)Learned how to use the updateOne and deleteOne commands.
+		
+		https://www.youtube.com/watch?v=EHXczTBSZK0&list=PLRAV69dS1uWTaoxyeBbKpAEF90i4ijUQZ&index=10&ab_channel=HiteshChoudhary
+		
+		3)Learned how to use the updateMany and deleteMany commands.
+			
+		https://www.youtube.com/watch?v=QVmcJK-ZR3o&list=PLRAV69dS1uWTaoxyeBbKpAEF90i4ijUQZ&index=11&ab_channel=HiteshChoudhary
