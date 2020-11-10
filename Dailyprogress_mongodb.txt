@@ -35,3 +35,7 @@ Day 2 [10-11-2020]
 		3)Learned how to use the updateMany and deleteMany commands.
 			
 		https://www.youtube.com/watch?v=QVmcJK-ZR3o&list=PLRAV69dS1uWTaoxyeBbKpAEF90i4ijUQZ&index=11&ab_channel=HiteshChoudhary
+
+		4) Learned about the problems using update command and that updateOne and updateMany commands are better to use.
+		
+		https://www.youtube.com/watch?v=8suRVB5h5-w&list=PLRAV69dS1uWTaoxyeBbKpAEF90i4ijUQZ&index=12&ab_channel=HiteshChoudhary
