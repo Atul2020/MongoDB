@@ -39,3 +39,13 @@ Day 2 [10-11-2020]
 		4) Learned about the problems using update command and that updateOne and updateMany commands are better to use.
 		
 		https://www.youtube.com/watch?v=8suRVB5h5-w&list=PLRAV69dS1uWTaoxyeBbKpAEF90i4ijUQZ&index=12&ab_channel=HiteshChoudhary
+
+Day 3 [11-11-2020]
+		
+		1)learned how to do basic querying from the shell on data.
+
+		https://www.youtube.com/watch?v=tpuhvauuOIo&list=PLRAV69dS1uWTaoxyeBbKpAEF90i4ijUQZ&index=14&ab_channel=HiteshChoudhary
+		
+		2)Went through basic querrying in the documentation.
+		
+		https://docs.mongodb.com/manual/tutorial/query-documents/
